@@ -1,5 +1,6 @@
 # PicOrgFTP-SQL
 Python picture organiser with ability to send to FTP and SQL
+<img width="955" height="1040" alt="image" src="https://github.com/user-attachments/assets/7a764ed7-a288-4dce-aef4-814be6865dcb" />
 
 ## English
 
